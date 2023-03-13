@@ -214,6 +214,8 @@ h3 {
     border: 2px solid rgb(120, 25, 131);
     border-top-right-radius: 25px;
     border-bottom-left-radius: 25px;
+    height: 66%;
+    /* width: 60%; */
 }
 
 .team-col img:hover {
@@ -272,14 +274,10 @@ h3 {
     padding: 18px 50%;
 }
 
-.icons fa:hover {
-    color: #bb0c4f;
+.icons .fa:hover {
+    color: #5a0a3e;
 }
 
-.fa-heart-o {
-    color: #a50f04;
-
-}
 .footer h4{
     margin-top: 80px;
     color: black;
