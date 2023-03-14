@@ -66,7 +66,7 @@ ul li a {
 header {
     width: 100vw;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url('bg gif.gif');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url('photos/bg gif.gif');
     background-position: bottom;
     background-size: cover;
     display: flex;
@@ -116,7 +116,7 @@ header {
 .abt {
     width: 100vw;
     height: 100vh;
-    background-image: url("abt.jpg");
+    background-image: url("photos/abt.jpg");
     background-position: bottom;
     background-size: cover;
     display: flex;
@@ -198,6 +198,7 @@ h3 {
     margin-left: 15%;
     text-align: center;
     padding-top: 100px;
+    
 }
 
 .team-col {
@@ -241,7 +242,7 @@ h3 {
     width: 100%;
     padding: 10px 0;
     align-items: center;
-    background-image: url(contact.png);
+    background-image: url(photos/contact.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
